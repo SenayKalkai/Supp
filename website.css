@@ -1,0 +1,12 @@
+.stretch{
+  background-color: green;
+  padding: 10px 20px;
+  transition: transform 0.15s; 
+  color: white;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.stretch:hover{
+  transform: scale(1.1);
+}
